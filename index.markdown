@@ -6,3 +6,7 @@ layout: home
 ---
 Hello World.
 This is Test.
+
+We will show what we have done through this place.
+
+we are UI/UX Designer(Architecter) and Developer.
